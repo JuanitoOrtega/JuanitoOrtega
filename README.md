@@ -99,9 +99,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuanitoOrtega/JuanitoOrtega/output/snake.svg" alt="Snake animation" />
-
-###
